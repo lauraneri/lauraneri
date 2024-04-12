@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Laura Neri 👋
 
 <!--
 **lauraneri/lauraneri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm an undergradute student of Computer Science @ University of Sao Paulo - ICMC
+- 🌱 I’m currently learning C, Assembly, Graphs and Scrum
+- 📫 How to reach me: lauranerit@gmail.com
+- 😄 Pronouns: she/her
+
+<div align="center">
+  <a href="https://github.com/lauraneri">
+  <img src="https://github-readme-stats.vercel.app/api?username=lauraneri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="220em" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lauraneri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="220em" alt="languages graph"  />
+</div>
