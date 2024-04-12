@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm an undergradute student of Computer Science @ University of Sao Paulo - ICMC
-- 🌱 I’m currently learning C, Assembly, Graphs and Scrum
+- 🔭 I'm an undergradute student of **Computer Science** @ **University of Sao Paulo - ICMC**
+- 🌱 I’m currently learning **C, Assembly, Graphs and Scrum**
 - 📫 How to reach me: lauranerit@gmail.com
 - 😄 Pronouns: she/her
 
