@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I'm an undergradute student of **Computer Science** @ **University of Sao Paulo - ICMC**
-- 🌱 I’m currently learning **LangChain and others AI tools**
+- 🌱 I’m currently learning **LLM tools** such as **LangChain, CrewAI and LangGraph**
 - 📫 How to reach me: lauranerit@gmail.com
 
 
